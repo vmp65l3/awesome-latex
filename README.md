@@ -22,6 +22,7 @@
 - [graphicx]()：插入图片。
 - [cnlogo](https://github.com/yuxtech/cnlogo)：中国部分大学校徽矢量图。
 - [fontawesome5]()：图标，做简历时候用到的几个小图标，如“手机”、“邮箱”、“地址”等。
+- [pgf-pie](https://www.ctan.org/pkg/pgf-pie)：做饼状图。
 
 ### tikz 画图库
 - [positioning]()：图片上定位，如在图片上加编号。
