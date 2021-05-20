@@ -2,7 +2,7 @@
 
 ## 段落结构
 
-- [enumite](https://ctan.org/pkg/enumerate)：可以自定义枚举环境。
+- [enumitem](https://ctan.org/pkg/enumitem)：可以自定义枚举环境。
 - [gbt7714]()：学位论文参考文献国标 GBT7714-2015 规范宏包。
 - [tocloft]()：自定义目录。
 - [fancyhdr]()：页眉页脚自定义。
