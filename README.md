@@ -11,6 +11,7 @@
 - [amsmath]()：都说这是必备，自己没感觉，倒是多行公式在等式对齐处用到了。
 - [emptypage]()：偶数页空白，因为 openright 选项我没搞明白，所以找到了这个比较暴力的宏包。
 - [siunitx](https://www.ctan.org/pkg/siunitx)：单位符号，各种空格缩写，把握不住。
+- [zhlipsum](https://ctan.org/pkg/zhlipsum)：中文乱数假文。
 
 ## 画图
 - [tikz](https://www.ctan.org/pkg/pgf)：宇宙起源，不解释了。
