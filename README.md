@@ -21,6 +21,10 @@
 - [graphicx]()：插入图片。
 - [cnlogo](https://github.com/yuxtech/cnlogo)：中国部分大学校徽矢量图。
 - [fontawesome5]()：图标，做简历时候用到的几个小图标，如“手机”、“邮箱”、“地址”等。
+- [loginpuzzle](https://ctan.org/pkg/logicpuzzle)：迷宫数独等等。
+- [sudoku](https://ctan.org/pkg/sudoku)：数独。
+- [academicons](https://ctan.org/pkg/academicons)：学术图表。
+- [lcd](https://ctan.org/pkg/lcd)：lcd风格显示。
 
 
 
@@ -33,6 +37,10 @@
 - [pgf-pie](https://www.ctan.org/pkg/pgf-pie)：做饼状图。
 - [tikzpeople](https://ctan.org/pkg/tikzpeople)：简笔画人物。
 - [tikz-feynman](https://ctan.org/pkg/tikz-feynman)：费曼图。
+- [jigsaw](https://ctan.org/pkg/jigsaw)：拼图。
+- [celtic](https://ctan.org/pkg/celtic)：编织图案。
+- [productbox](https://ctan.org/pkg/productbox)：包装盒。
+
 
 #### tikz 画图库
 - [positioning]()：图片上定位，如在图片上加编号。
@@ -40,7 +48,15 @@
 - [angles]()：几何光学光路中的角度。
 - [patterns]()：图案，如横线、竖线、斜线等。
 - [mindmap]()：思维导图。
+- [braids](https://ctan.org/pkg/braids)：编织图案。
+- [ticollege](https://ctan.org/pkg/ticollege)：科学计算器。
 
 ### pstricks
-- [pst-magneticfield](https://ctan.org/pkg/pst-magneticfield)磁场线。
+- [pst-magneticfield](https://ctan.org/pkg/pst-magneticfield)：磁场线。
 - [pst-am](https://ctan.org/pkg/pst-am)：调制与解调。
+- [pst-soroban](https://ctan.org/pkg/pst-soroban)：算盘。
+- [pst-optexp](https://ctan.org/pkg/pst-optexp)：光学实验光路图。
+- [pst-geo](https://ctan.org/pkg/pst-geo)：地理地图。
+
+
+
