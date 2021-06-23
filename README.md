@@ -18,13 +18,19 @@
 - [simpleoptics](https://ctan.org/pkg/simpleoptics)：简单光学透镜。
 - [wroldflags](https://www.ctan.org/pkg/worldflags)：全部（应该）国家或地区的旗帜（中国的国旗是错误的，慎用）。
 - [blochsphere](https://ctan.org/pkg/blochsphere)：画布洛赫球面。
-- [graphicx]()：插入图片。
+- [graphicx](https://ctan.org/pkg/graphicx)：插入图片。
 - [cnlogo](https://github.com/yuxtech/cnlogo)：中国部分大学校徽矢量图。
 - [fontawesome5]()：图标，做简历时候用到的几个小图标，如“手机”、“邮箱”、“地址”等。
+- [emoji](https://ctan.org/pkg/emoji)：插入emoji。
 - [loginpuzzle](https://ctan.org/pkg/logicpuzzle)：迷宫数独等等。
 - [sudoku](https://ctan.org/pkg/sudoku)：数独。
 - [academicons](https://ctan.org/pkg/academicons)：学术图表。
 - [lcd](https://ctan.org/pkg/lcd)：lcd风格显示。
+- [getmap](https://ctan.org/pkg/getmap)：从谷歌地图上下载地图并标记。
+- [happy4th](https://ctan.org/pkg/happy4th)：动态烟花。
+- [musixguit](https://ctan.org/pkg/musixguit)：吉他谱。
+- [musictex](https://ctan.org/pkg/musictex)：五线谱。
+
 
 
 
@@ -50,6 +56,7 @@
 - [mindmap]()：思维导图。
 - [braids](https://ctan.org/pkg/braids)：编织图案。
 - [ticollege](https://ctan.org/pkg/ticollege)：科学计算器。
+- [flowcharts](https://ctan.org/pkg/flowchart)：流程图。
 
 ### pstricks
 - [pst-magneticfield](https://ctan.org/pkg/pst-magneticfield)：磁场线。
