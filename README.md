@@ -30,6 +30,8 @@
 - [happy4th](https://ctan.org/pkg/happy4th)：动态烟花。
 - [musixguit](https://ctan.org/pkg/musixguit)：吉他谱。
 - [musictex](https://ctan.org/pkg/musictex)：五线谱。
+- [chronosys](https://www.ctan.org/pkg/chronosys)：时间线。
+- [chronology](https://www.ctan.org/pkg/chronology)：时间线。
 
 
 
